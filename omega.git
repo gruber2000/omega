@@ -1,0 +1,3 @@
+opkg update
+opkg install mc --nodeps
+opkg install libncursesw glib2
